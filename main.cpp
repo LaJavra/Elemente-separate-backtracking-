@@ -1,4 +1,4 @@
-// deocamdata nu afisez in fisier ca se blocheaza pc
+// deocamdata nu afisez in fisier ca se blocheaza pc subtil
 
 #include <iostream>
 #include <fstream>
